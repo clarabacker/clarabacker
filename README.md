@@ -1,5 +1,5 @@
 <h1> Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Clara Backer </h1>
-<p>I'm in the sixth semester of college, exploring the programming world. I love turning ideas into code and am always in search of challenges. Collaborate with me on this learning journey! 🎓💻</p>
+<p>I'm in the seventh semester of college, exploring the programming world. I love turning ideas into code and am always in search of challenges. Collaborate with me on this learning journey! 🎓💻</p>
 <br>
 
 ## 🛠️ My Tech Stacks
